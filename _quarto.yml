@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: docs # Put output into docs folcer instead of _site
+  # output-dir: docs # Put output into docs folcer instead of _site
 
 website:
   title: "DSCI 310 Website"
